@@ -4,7 +4,7 @@
 #
 Name     : mvn-xercesMinimal
 Version  : 1.9.6.2
-Release  : 2
+Release  : 3
 URL      : https://repo1.maven.org/maven2/nekohtml/xercesMinimal/1.9.6.2/xercesMinimal-1.9.6.2.jar
 Source0  : https://repo1.maven.org/maven2/nekohtml/xercesMinimal/1.9.6.2/xercesMinimal-1.9.6.2.jar
 Source1  : https://repo1.maven.org/maven2/nekohtml/xercesMinimal/1.9.6.2/xercesMinimal-1.9.6.2.pom
